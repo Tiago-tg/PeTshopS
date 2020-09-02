@@ -1,0 +1,214 @@
+
+
+body{
+
+background-color: #C0C0C0;
+
+}
+
+h1{
+
+font-size:60px;
+
+}
+
+
+.ban{
+background-color: #898989 ;
+display: flex;
+justify-content: center;
+padding:0px;
+margin:0px;
+
+}
+
+._barra_{
+width: 100%;
+height:50px;
+margin-top:10px;
+background-color: #5C5C5C ;
+
+}
+
+
+.caja{
+background-color: #9F9797 ;
+  font-size:35px;
+text-align:center;
+
+
+
+}
+
+
+
+a{
+text-decoration: none;
+color:white;
+}
+
+a:hover{
+
+color:#565552  ;
+
+}
+
+._fondo_{
+
+width: 100%;
+height:1200px;
+background-color: #383535 ;
+position:relative;
+top:20px;
+
+
+}
+
+
+#tex{
+
+color:white;
+font-size:30px;
+
+
+}
+
+#tex:hover{
+
+color:#C7C7C7 ;
+
+}
+
+
+.texto{
+
+display: flex;
+justify-content: center;
+position:relative;
+top:250px;
+left:-200px;
+}
+
+.centrado{
+
+display: flex;
+justify-content: center;
+
+}
+
+h2{
+
+color:white;
+font-size:40px;
+
+}
+
+
+.preguntas{
+
+width: 100%;
+height:200px;
+background-color: #4A4A4A ;
+
+
+}
+
+.Nosotros{
+  width: 100%;
+  height:100px;
+  background-color: #4A4A4A ;
+
+
+}
+
+
+.final{
+
+background-color:#2C2B2B ;
+width:100%;
+height:250px;
+position: relative;
+top:80px;
+}
+.derechos{
+width: 100%;
+height: 10px;
+
+position:relative;
+bottom:10px;
+
+}
+
+#crea{
+text-align: center;
+color:white;
+font-size: 20px;
+
+}
+.fac{
+margin: 0 auto;
+width:25px;
+text-align: center;
+justify-content: center;
+position: relative;
+
+
+}
+
+.logo{
+
+margin: 0 auto;
+width:25px;
+text-align: center;
+justify-content: center;
+position: relative;
+
+
+}
+
+
+.subfinal{
+
+text-align: center;
+}
+
+a{
+
+text-decoration: none;
+color:white;
+
+}
+
+
+@media only screen and (max-width: 812px) {
+
+
+a{
+
+font-size:15px;
+
+}
+
+#subir{
+
+width:50%;
+
+}
+
+._fondo_{
+
+height:800px;
+
+}
+
+
+
+
+}
+@media only screen and (mmax-width:768px ) {
+
+p{
+
+color:red;
+
+}
